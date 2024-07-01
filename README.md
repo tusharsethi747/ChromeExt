@@ -13,7 +13,7 @@ Features
 Installation
 
 To install the extension on edge browser, use the below link: 
-  Link: https://microsoftedge.microsoft.com/addons/detail/youtube-bookmakrs/bjilihiipkkkpmhljfpjbcnhimeijimp
+  https://microsoftedge.microsoft.com/addons/detail/youtube-bookmakrs/bjilihiipkkkpmhljfpjbcnhimeijimp
 
 To install the extension on chrome, follow these steps:
 
