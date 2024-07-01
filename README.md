@@ -25,8 +25,9 @@ Usage
 3. To play the video from a bookmarked timestamp, click on the play button of desired bookmark in the extension popup.
 4. To delete a bookmark, click on the delete icon of the desired bookmark.
 
-![image](https://github.com/tusharsethi747/ChromeExt/assets/99126638/c6a0b93d-6c18-4bde-8e17-c8a7bbb0de5a)
 
+![WhatsApp Image 2024-07-01 at 10 51 20_62822c23](https://github.com/tusharsethi747/ChromeExt/assets/99126638/f7d72c11-d18f-4854-ac73-d687ae072271)
 
+![WhatsApp Image 2024-07-01 at 10 51 20_5e1b9dc4](https://github.com/tusharsethi747/ChromeExt/assets/99126638/2f789c86-2994-4bf3-bf0b-a97bd96781c5)
 
 ![image](https://github.com/tusharsethi747/ChromeExt/assets/99126638/4c9eaec2-7315-466f-b012-4194e9fe49bb)
