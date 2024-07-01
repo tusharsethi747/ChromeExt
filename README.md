@@ -11,7 +11,11 @@ Features
 3. Delete Bookmarks: Remove any unwanted bookmarks directly from the extension interface.
 
 Installation
- To install the extension, follow these steps:
+
+To install the extension on edge browser, use the below link: 
+  Link: https://microsoftedge.microsoft.com/addons/detail/youtube-bookmakrs/bjilihiipkkkpmhljfpjbcnhimeijimp
+
+To install the extension on chrome, follow these steps:
 
 1. Clone or download this repository to your local machine.
 2. Open Google Chrome and navigate to chrome://extensions.
@@ -20,7 +24,7 @@ Installation
 5. The extension should now be installed and visible in your Chrome browser toolbar.
 
 Usage
-1. Start playing a video in your browser.
+1. Start playing a youtube video in your browser.
 2. When you reach a timestamp you want to bookmark, click on the Plus icon in the youtbe video player.
 3. To play the video from a bookmarked timestamp, click on the play button of desired bookmark in the extension popup.
 4. To delete a bookmark, click on the delete icon of the desired bookmark.
